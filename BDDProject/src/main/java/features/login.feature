@@ -9,7 +9,7 @@ Feature: FreeCrm login feature
 #Then user is on home Page
 
 
-#with example keyword
+with example keyword
 
 Scenario Outline: FreeCrm Login test scenario
 
